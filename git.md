@@ -9,12 +9,12 @@
 
 ## Basics
 
-**git init**
-Create a Git repository in the current folder.
-**git status**
-View the status of each file in a repository.
-**git add <file>**
-Stage a file for the next commit.
+  **git init**
+  Create a Git repository in the current folder.
+  **git status**
+  View the status of each file in a repository.
+  **git add <file>**
+  Stage a file for the next commit.
 
     git commit
     Commit the staged files with a descriptive message.
